@@ -2,8 +2,12 @@
 import os
 import sys
 
+<<<<<<< HEAD
 import("1232421412")
 import(1232424)
+=======
+import("12324worw12")
+>>>>>>> develop
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "tango.settings")
